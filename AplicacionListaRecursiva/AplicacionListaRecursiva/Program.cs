@@ -13,7 +13,7 @@ namespace AplicacionListaRecursiva
             while (opcion != 0)
             {
                 Console.Clear();
-                MostrarMenu(); // Llamamos al nuevo método que dibuja el menú
+                MostrarMenu();
 
                 Console.Write("Ingrese una opción: ");
                 opcion = Convert.ToInt32(Console.ReadLine());
@@ -38,11 +38,11 @@ namespace AplicacionListaRecursiva
                     case 6:
                         BuscarTarea(listaTareas);
                         break;
-                    // AQUI: Añadir opción para encontrar el mínimo
+                    
                     case 7:
                         EncontrarMinimoTarea(listaTareas);
                         break;
-                    // AQUI: Fin de la nueva opción
+                    
                     case 0:
                         Console.WriteLine("Saliendo de la aplicación...");
                         break;
@@ -59,7 +59,7 @@ namespace AplicacionListaRecursiva
             }
         }
 
-        // Método para mostrar el menú dentro de un cuadro
+        //mostrar menu dentro de un cuadro
         static void MostrarMenu()
         {
             Console.WriteLine("╔═══════════════════════════════════════╗");

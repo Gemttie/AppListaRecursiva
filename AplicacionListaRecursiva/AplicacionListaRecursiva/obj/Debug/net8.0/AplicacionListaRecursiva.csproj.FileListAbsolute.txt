@@ -16,3 +16,4 @@ E:\ProgamasHechos\AppListaRecursiva\AplicacionListaRecursiva\AplicacionListaRecu
 E:\ProgamasHechos\AppListaRecursiva\AplicacionListaRecursiva\AplicacionListaRecursiva\obj\Debug\net8.0\AplicacionListaRecursiva.pdb
 E:\ProgamasHechos\AppListaRecursiva\AplicacionListaRecursiva\AplicacionListaRecursiva\obj\Debug\net8.0\AplicacionListaRecursiva.genruntimeconfig.cache
 E:\ProgamasHechos\AppListaRecursiva\AplicacionListaRecursiva\AplicacionListaRecursiva\obj\Debug\net8.0\ref\AplicacionListaRecursiva.dll
+E:\ProgamasHechos\AppListaRecursiva\AplicacionListaRecursiva\AplicacionListaRecursiva\obj\Debug\net8.0\AplicacionListaRecursiva.sourcelink.json

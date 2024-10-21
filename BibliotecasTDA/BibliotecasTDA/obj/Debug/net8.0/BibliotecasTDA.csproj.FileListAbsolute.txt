@@ -9,3 +9,4 @@ E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8
 E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\refint\BibliotecasTDA.dll
 E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.pdb
 E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\ref\BibliotecasTDA.dll
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.sourcelink.json

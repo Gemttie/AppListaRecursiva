@@ -111,7 +111,7 @@ namespace BibliotecasTDA
         {
             if (n < 0 || n >= Longitud())
             {
-                // La posición especificada está fuera de los límites de la lista
+                //si la posicion se pasa fuera de los limites de la lista
                 return null;
             }
 
@@ -127,12 +127,12 @@ namespace BibliotecasTDA
         {
             if (EsVacia())
             {
-                return false; // La lista está vacía, el elemento no puede existir
+                return false; 
             }
 
             if (Elem.Equals(elemento))
             {
-                return true; // El elemento está en la posición actual
+                return true; 
             }
 
             return aSubLista.ExisteElemento(elemento);
@@ -140,8 +140,25 @@ namespace BibliotecasTDA
 
         public void Buscar()
         {
+            if (EsVacia())
+            {
+                Console.WriteLine("La lista está vacía.");
+                return;
+            }
 
+            Console.Write("Ingrese el elemento que desea buscar: ");
+            object elementoBuscar = Console.ReadLine();
+
+            if (ExisteElemento(elementoBuscar))
+            {
+                Console.WriteLine("El elemento '" + elementoBuscar + "' existe en la lista.");
+            }
+            else
+            {
+                Console.WriteLine("El elemento '" + elementoBuscar + "' no fue encontrado.");
+            }
         }
+
 
         //
         public object EncontrarMinimo()

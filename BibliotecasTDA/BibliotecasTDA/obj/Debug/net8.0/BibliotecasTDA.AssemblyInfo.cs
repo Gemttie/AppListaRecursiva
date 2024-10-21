@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecasTDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6636d2578a9d15fb4ebd770d1d476e4f34dd3f83")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecasTDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecasTDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
