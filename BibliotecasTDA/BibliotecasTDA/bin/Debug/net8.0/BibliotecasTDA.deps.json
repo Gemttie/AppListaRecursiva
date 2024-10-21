@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BibliotecasTDA/1.0.0": {
+        "runtime": {
+          "BibliotecasTDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecasTDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

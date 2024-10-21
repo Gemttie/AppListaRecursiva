@@ -1,0 +1,11 @@
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\bin\Debug\net8.0\BibliotecasTDA.deps.json
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\bin\Debug\net8.0\BibliotecasTDA.dll
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\bin\Debug\net8.0\BibliotecasTDA.pdb
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.AssemblyInfoInputs.cache
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.AssemblyInfo.cs
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.csproj.CoreCompileInputs.cache
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.dll
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\refint\BibliotecasTDA.dll
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\BibliotecasTDA.pdb
+E:\ProgamasHechos\AppListaRecursiva\BibliotecasTDA\BibliotecasTDA\obj\Debug\net8.0\ref\BibliotecasTDA.dll
