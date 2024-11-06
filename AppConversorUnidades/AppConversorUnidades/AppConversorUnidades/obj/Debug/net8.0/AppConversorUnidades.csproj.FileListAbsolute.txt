@@ -1,0 +1,14 @@
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.AssemblyInfoInputs.cache
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.AssemblyInfo.cs
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.csproj.CoreCompileInputs.cache
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\bin\Debug\net8.0\AppConversorUnidades.exe
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\bin\Debug\net8.0\AppConversorUnidades.deps.json
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\bin\Debug\net8.0\AppConversorUnidades.runtimeconfig.json
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\bin\Debug\net8.0\AppConversorUnidades.dll
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\bin\Debug\net8.0\AppConversorUnidades.pdb
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.dll
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\refint\AppConversorUnidades.dll
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.pdb
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\AppConversorUnidades.genruntimeconfig.cache
+E:\ProgamasHechos\AppConversorUnidades\AppConversorUnidades\AppConversorUnidades\obj\Debug\net8.0\ref\AppConversorUnidades.dll

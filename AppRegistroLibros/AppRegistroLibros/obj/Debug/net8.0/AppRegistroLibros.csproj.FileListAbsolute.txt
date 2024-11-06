@@ -1,0 +1,14 @@
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\bin\Debug\net8.0\AppRegistroLibros.exe
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\bin\Debug\net8.0\AppRegistroLibros.deps.json
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\bin\Debug\net8.0\AppRegistroLibros.runtimeconfig.json
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\bin\Debug\net8.0\AppRegistroLibros.dll
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\bin\Debug\net8.0\AppRegistroLibros.pdb
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.AssemblyInfoInputs.cache
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.AssemblyInfo.cs
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.csproj.CoreCompileInputs.cache
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.dll
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\refint\AppRegistroLibros.dll
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.pdb
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\AppRegistroLibros.genruntimeconfig.cache
+E:\ProgamasHechos\AppRegistroLibros\AppRegistroLibros\obj\Debug\net8.0\ref\AppRegistroLibros.dll

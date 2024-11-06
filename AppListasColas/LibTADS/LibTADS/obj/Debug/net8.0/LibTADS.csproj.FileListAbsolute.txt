@@ -1,0 +1,11 @@
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\bin\Debug\net8.0\LibTADS.deps.json
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\bin\Debug\net8.0\LibTADS.dll
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\bin\Debug\net8.0\LibTADS.pdb
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\LibTADS.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\LibTADS.AssemblyInfoInputs.cache
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\LibTADS.AssemblyInfo.cs
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\LibTADS.csproj.CoreCompileInputs.cache
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\LibTADS.dll
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\refint\LibTADS.dll
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\LibTADS.pdb
+E:\ProgamasHechos\AppListasColas\LibTADS\LibTADS\obj\Debug\net8.0\ref\LibTADS.dll

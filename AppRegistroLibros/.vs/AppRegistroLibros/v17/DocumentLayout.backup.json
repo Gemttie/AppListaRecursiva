@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProgamasHechos\\AppRegistroLibros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|e:\\progamashechos\\appregistrolibros\\appregistrolibros\\cestadolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|solutionrelative:appregistrolibros\\cestadolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|e:\\progamashechos\\appregistrolibros\\appregistrolibros\\clibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|solutionrelative:appregistrolibros\\clibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|e:\\progamashechos\\appregistrolibros\\appregistrolibros\\cregistrolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|solutionrelative:appregistrolibros\\cregistrolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|e:\\progamashechos\\appregistrolibros\\appregistrolibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1916533A-41F3-44C3-B490-58EAD3ED8AED}|AppRegistroLibros\\AppRegistroLibros.csproj|solutionrelative:appregistrolibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cEstadoLibro.cs",
+              "DocumentMoniker": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\cEstadoLibro.cs",
+              "RelativeDocumentMoniker": "AppRegistroLibros\\cEstadoLibro.cs",
+              "ToolTip": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\cEstadoLibro.cs",
+              "RelativeToolTip": "AppRegistroLibros\\cEstadoLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:57:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cLibro.cs",
+              "DocumentMoniker": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\cLibro.cs",
+              "RelativeDocumentMoniker": "AppRegistroLibros\\cLibro.cs",
+              "ToolTip": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\cLibro.cs",
+              "RelativeToolTip": "AppRegistroLibros\\cLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:56:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cRegistroLibros.cs",
+              "DocumentMoniker": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\cRegistroLibros.cs",
+              "RelativeDocumentMoniker": "AppRegistroLibros\\cRegistroLibros.cs",
+              "ToolTip": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\cRegistroLibros.cs",
+              "RelativeToolTip": "AppRegistroLibros\\cRegistroLibros.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:56:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\Program.cs",
+              "RelativeDocumentMoniker": "AppRegistroLibros\\Program.cs",
+              "ToolTip": "E:\\ProgamasHechos\\AppRegistroLibros\\AppRegistroLibros\\Program.cs",
+              "RelativeToolTip": "AppRegistroLibros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:53:36.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
